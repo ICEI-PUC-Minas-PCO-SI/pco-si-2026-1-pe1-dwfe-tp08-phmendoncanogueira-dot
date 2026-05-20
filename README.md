@@ -5,15 +5,19 @@ Nesta atividade, você fazer exercícios de programação para vai praticar a ma
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Pedro Henrique Mendonça Nogueira
+- Matricula: 96888
 
 ## Prints do console do navegador
 
 <<  COLOQUE A IMAGEM - LISTAGEM DE TÍTULOS - AQUI >>
+![Print listagem](public/images/printLista.png)
 
 <<  COLOQUE A IMAGEM - CÁLCULO DE MÉDIAS - AQUI >>
+![Print médias](public/images/printMedias.png)
 
 <<  COLOQUE A IMAGEM - RESUMO DE VERIFICAÇÕES (SOME E EVERY) - AQUI >>
+![Print checagens](public/images/printSomeEvery.png)
 
 <<  COLOQUE A IMAGEM - PÁGINA COM O RESUMO - AQUI >>
+![Print página](public/images/printPagina.png)
